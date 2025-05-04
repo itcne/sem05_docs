@@ -15,7 +15,9 @@ nav_order: 1
 
 ## Sprint Ziele
 
-- <TBD>
+- Project Start
+- Create RISK Board
+- Deploy & Configure Backstage
 
 ## Scrum Board
 
